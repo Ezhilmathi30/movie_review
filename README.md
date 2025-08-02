@@ -8,7 +8,7 @@ This exercise demonstrates basic image mapping in HTML using the `<map>` and `<a
 - Clickable area links to the official Warner Bros website
 
 ## Output
-[![WB Logo](wb.png)](https://www.warnerbros.com)
+[![WB Logo Preview](wb.png)](https://htmlpreview.github.io/?https://github.com/Ezhilmathi30/IMAGE_MAPPING/blob/main/index.html)
 
 
 
