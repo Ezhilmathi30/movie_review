@@ -1,15 +1,18 @@
 # Ex1 - Image Mapping using HTML
 
-This exercise demonstrates basic image mapping in HTML using the `<map>` and `<area>` tags.
+This exercise demonstrates how to create clickable image maps using HTML.
 
-## Description
-- Image used: WB logo (`wb.png`)
-- Tools used: HTML, image-map.net, Paint (for coordinates)
-- Clickable area links to the official Warner Bros website
+Click the image below to open the full interactive version 👇
 
+<<<<<<< HEAD
 ## Output
 [![WB Logo Preview](wb.png)](https://htmlpreview.github.io/?https://github.com/Ezhilmathi30/IMAGE_MAPPING/blob/main/index.html)
 
 
 
 ---
+=======
+[![WB Logo Preview](wb.png)](https://htmlpreview.github.io/?https://github.com/Ezhilmathi30/IMAGE_MAPPING/blob/main/index.html)
+
+---
+>>>>>>> 6fcea11 (Update README with preview link)
