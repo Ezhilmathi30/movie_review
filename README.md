@@ -8,7 +8,8 @@ This exercise demonstrates basic image mapping in HTML using the `<map>` and `<a
 - Clickable area links to the official Warner Bros website
 
 ## Output
-![WB Logo](wb.png)
+[![WB Logo](wb.png)](https://www.warnerbros.com)
+
 
 Clicking on the center part of the logo will redirect to:  
 [https://www.warnerbros.com](https://www.warnerbros.com)
